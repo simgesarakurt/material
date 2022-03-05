@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786356518443",
+    "project_id": "addimage-fa663",
+    "storage_bucket": "addimage-fa663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786356518443:android:367ffbe3b4d669c7abf46e",
+        "android_client_info": {
+          "package_name": "com.example.bitirmeprojesi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786356518443-rgqj1sqp1duojddtlvfsqh1abdq2sseo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfbm1XZ6nZFRHqjenGL1IzHjzX3k6AR2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786356518443-rgqj1sqp1duojddtlvfsqh1abdq2sseo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
